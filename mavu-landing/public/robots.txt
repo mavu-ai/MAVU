@@ -1,0 +1,9 @@
+# MAVU AI Robots.txt
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://mavu.ai/sitemap.xml
+
+# Disallow admin/private paths (if any in future)
+# Disallow: /admin/

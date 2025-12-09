@@ -1,0 +1,210 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_Text_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: ef231490028a7fc4e84c10b804a20cc3, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8239737532416
+    m_Localized: Avatars
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10720278278144
+    m_Localized: Backgrounds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14989911977984
+    m_Localized: App language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15410399342592
+    m_Localized: Mail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 266562084859904
+    m_Localized: Link
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267675680960512
+    m_Localized: DeleteAccount
+    m_Metadata:
+      m_Items: []
+  - m_Id: 268149129801728
+    m_Localized: Selected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 268359616753664
+    m_Localized: Select
+    m_Metadata:
+      m_Items: []
+  - m_Id: 268992793079808
+    m_Localized: Customize
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1060300340129792
+    m_Localized: '{0} of {1}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1061680874319872
+    m_Localized: Mao
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1061768292003840
+    m_Localized: Mao is a witch of colors. She is ready to brighten up your gray
+      mood at any moment!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1062142725910528
+    m_Localized: Natori
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1062314256166912
+    m_Localized: 'Natori is a butler, your request is his duty. At your service!
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1064192348057600
+    m_Localized: Mail is not linked
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1107038153273344
+    m_Localized: CozyRoom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1107140792086528
+    m_Localized: Midnight forest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1107349030891520
+    m_Localized: The Twilight Forest is a place of quiet fairy tales. The stars stand
+      still in anticipation...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1107943548317696
+    m_Localized: The room is filled with warmth and comfort. The clock is on the
+      wall, a cup of aromatic tea is on the table. The perfect choice.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2881414678769664
+    m_Localized: How should I address you?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2882025793056768
+    m_Localized: Confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3599548452761600
+    m_Localized: Paste link from e-mail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3600423090974720
+    m_Localized: Test message
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3601564314955776
+    m_Localized: Send
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3622176605401088
+    m_Localized: Yes, sign in
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7296235549552640
+    m_Localized: Energetic and cheerful friend, loves sports", "optimist", "always
+      ready to help". Friendly and energetic.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7296774291124224
+    m_Localized: Alex
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7296827374235648
+    m_Localized: Maya
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7297094836613120
+    m_Localized: ' A caring and creative friend who loves art, is empathetic, and
+      a good listener. Speaks softly and supportively.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8666875082895360
+    m_Localized: I haven't an account
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14885292404174848
+    m_Localized: Have an account?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14927580517953536
+    m_Localized: Enter mail address
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14977057484238848
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14977986170253312
+    m_Localized: 'Email address '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15569515502956544
+    m_Localized: Check your email
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15577967323312128
+    m_Localized: Almost done! Click the link in the email
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15617601323462656
+    m_Localized: Tell us about yourself
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15619352692846592
+    m_Localized: Your name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15619434632769536
+    m_Localized: Gender
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15619761620709376
+    m_Localized: Age
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15619914528256000
+    m_Localized: Complete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15620303289905152
+    m_Localized: Girl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15620370839171072
+    m_Localized: Boy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26555660147683328
+    m_Localized: 'Login with promocode '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26558533241729024
+    m_Localized: The application is in beta testing
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

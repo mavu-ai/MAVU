@@ -1,0 +1,64 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: mavuai-postgres
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB:-mavuai}
+      POSTGRES_USER: ${POSTGRES_USER:-mavuai}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-mavuai_password}
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./backend/db/init.sql:/docker-entrypoint-initdb.d/init.sql
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-mavuai}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - mavuai-network
+    restart: unless-stopped
+
+  weaviate:
+    image: semitechnologies/weaviate:latest
+    container_name: mavuai-weaviate
+    ports:
+      - "8080:8080"
+      - "50051:50051"  # gRPC port for Weaviate v4 client
+    environment:
+      QUERY_DEFAULTS_LIMIT: 25
+      AUTHENTICATION_ANONYMOUS_ACCESS_ENABLED: 'true'
+      PERSISTENCE_DATA_PATH: '/var/lib/weaviate'
+      DEFAULT_VECTORIZER_MODULE: 'none'
+      ENABLE_MODULES: ''
+      CLUSTER_HOSTNAME: 'node1'
+    volumes:
+      - weaviate_data:/var/lib/weaviate
+    networks:
+      - mavuai-network
+    restart: unless-stopped
+
+  redis:
+    image: redis:7-alpine
+    container_name: mavuai-redis
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    networks:
+      - mavuai-network
+    restart: unless-stopped
+    command: redis-server --appendonly yes
+
+networks:
+  mavuai-network:
+    driver: bridge
+
+volumes:
+  postgres_data:
+    driver: local
+  weaviate_data:
+  redis_data:

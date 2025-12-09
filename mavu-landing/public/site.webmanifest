@@ -1,0 +1,16 @@
+{
+  "name": "MAVU AI — Цифровой друг для вашего ребёнка",
+  "short_name": "MAVU AI",
+  "description": "Первый эмоциональный ИИ-друг для детей 5–12 лет",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#08080f",
+  "theme_color": "#8b5cf6",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

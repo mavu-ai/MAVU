@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f401bb1c5c52514eba33c0c2ffdc8ff, type: 3}
+  m_Name: 13-parka.expressionList
+  m_EditorClassIdentifier: 
+  CubismExpressionObjects:
+  - {fileID: 11400000, guid: 41f2492cc61b7604fb78a7859088ec40, type: 2}
+  - {fileID: 11400000, guid: dd27903228479754ba951b79a52fe6be, type: 2}
+  - {fileID: 11400000, guid: 1c9e9a5ac6bcdcf4e9fb4fe79876fb97, type: 2}
+  - {fileID: 11400000, guid: 4aee6cd131fe1474990d3dfb299bf6db, type: 2}
+  - {fileID: 11400000, guid: 1b9d879be8720e645a269ef8dd7e326c, type: 2}
+  - {fileID: 11400000, guid: fb205aa1bb2873240ae62f44ad230087, type: 2}
+  - {fileID: 11400000, guid: e9d6fc5046bf01a48bc199de544fffb9, type: 2}
+  - {fileID: 11400000, guid: 1e9a6e4888c196446b924e812962c8ba, type: 2}
+  - {fileID: 11400000, guid: db4644d446a08204d90ffef9ad4deea1, type: 2}
+  - {fileID: 11400000, guid: 027242d2ef9db4349a0b1f0c9a36fdab, type: 2}
+  - {fileID: 11400000, guid: edc63c5ac3d6fdc4a9fca481fd61eefe, type: 2}
+  - {fileID: 11400000, guid: a6bd4c5ec8920e847917a2fd0f93aeca, type: 2}

@@ -1,0 +1,40 @@
+{
+	"Type": "Live2D Expression",
+	"Parameters": [
+		{
+			"Id": "ParamMoH2",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamMoH5",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamLoopControllerL1",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamLoopControllerL2",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamLoopControllerR1",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamLoopControllerR2",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamMoH",
+			"Value": 0,
+			"Blend": "Add"
+		}
+	]
+}

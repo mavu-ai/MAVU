@@ -1,0 +1,8 @@
+D:/UnityProjects/MavuAI/.utmp/RelWithDebInfo/1e5e5263/x86_64/CMakeFiles/edit_cache.dir
+D:/UnityProjects/MavuAI/.utmp/RelWithDebInfo/1e5e5263/x86_64/CMakeFiles/rebuild_cache.dir
+D:/UnityProjects/MavuAI/.utmp/RelWithDebInfo/1e5e5263/x86_64/GameActivity/CMakeFiles/game.dir
+D:/UnityProjects/MavuAI/.utmp/RelWithDebInfo/1e5e5263/x86_64/GameActivity/CMakeFiles/edit_cache.dir
+D:/UnityProjects/MavuAI/.utmp/RelWithDebInfo/1e5e5263/x86_64/GameActivity/CMakeFiles/rebuild_cache.dir
+D:/UnityProjects/MavuAI/.utmp/RelWithDebInfo/1e5e5263/x86_64/FramePacing/CMakeFiles/swappywrapper.dir
+D:/UnityProjects/MavuAI/.utmp/RelWithDebInfo/1e5e5263/x86_64/FramePacing/CMakeFiles/edit_cache.dir
+D:/UnityProjects/MavuAI/.utmp/RelWithDebInfo/1e5e5263/x86_64/FramePacing/CMakeFiles/rebuild_cache.dir

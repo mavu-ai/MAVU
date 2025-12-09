@@ -1,0 +1,30 @@
+{
+	"Type": "Live2D Expression",
+	"Parameters": [
+		{
+			"Id": "ParamHighlight1",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamHighlight2",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamHighlight3",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamKbEyeKirakira",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamKbEyeGrgr",
+			"Value": 0,
+			"Blend": "Add"
+		}
+	]
+}

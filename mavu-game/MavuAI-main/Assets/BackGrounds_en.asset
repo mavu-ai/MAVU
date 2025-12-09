@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: BackGrounds_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 1123e7769ff015e47a5b55d7ca5b72f4, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1654969659392
+    m_Localized: They say this gazebo stands on the border between worlds. During
+      the day, it's bathed in warm light, and as dusk falls, it becomes a place where
+      your deepest dreams can come true.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17811173376
+    m_Localized: Solar dream
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8211258208256
+    m_Localized: ' The friends'' forest path'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8232628187136
+    m_Localized: Here friends meet, play, rest, and dream, sharing the joy of every
+      moment, be it a bright morning, a warm sunset, or a peaceful night.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16236329103360
+    m_Localized: Rest room
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16598406590464
+    m_Localized: It is a personal space for rest and dreams, a place to watch the
+      city life below without disturbing one's own peace.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

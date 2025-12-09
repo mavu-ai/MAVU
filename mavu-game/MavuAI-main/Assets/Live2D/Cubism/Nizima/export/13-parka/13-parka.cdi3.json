@@ -1,0 +1,896 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "Угол X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "Угол Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "",
+			"Name": "Угол Z"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "ParamGroup9",
+			"Name": "Рот - Форма"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroup9",
+			"Name": "Рот - Открытие"
+		},
+		{
+			"Id": "ParamSad",
+			"GroupId": "ParamGroup9",
+			"Name": "Рот - Грустный"
+		},
+		{
+			"Id": "ParamCatMouth",
+			"GroupId": "ParamGroup9",
+			"Name": "★Рот - Кошачий"
+		},
+		{
+			"Id": "ParamM_V_X1",
+			"GroupId": "ParamGroup9",
+			"Name": "Рот X (влево)"
+		},
+		{
+			"Id": "ParamM_V_X2",
+			"GroupId": "ParamGroup9",
+			"Name": "Рот X (вправо)"
+		},
+		{
+			"Id": "ParamMouthX",
+			"GroupId": "ParamGroup9",
+			"Name": "Рот X"
+		},
+		{
+			"Id": "ParamMouthX2",
+			"GroupId": "ParamGroup9",
+			"Name": "Рот X2"
+		},
+		{
+			"Id": "ParamEyePhysics",
+			"GroupId": "ParamGroup",
+			"Name": "Дрожание глаз"
+		},
+		{
+			"Id": "ParamEyePhysics2",
+			"GroupId": "ParamGroup",
+			"Name": "Дрожание глаз 2"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "ParamGroup",
+			"Name": "Зрачок X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "ParamGroup",
+			"Name": "Зрачок Y"
+		},
+		{
+			"Id": "ParamSmileEye",
+			"GroupId": "ParamGroup",
+			"Name": "Глаза - Улыбка"
+		},
+		{
+			"Id": "ParamContractionEye",
+			"GroupId": "ParamGroup",
+			"Name": "Глаза - Удивление"
+		},
+		{
+			"Id": "ParamE_Type",
+			"GroupId": "ParamGroup",
+			"Name": "★Тип глаз"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup",
+			"Name": "Левый глаз - Открытие"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup",
+			"Name": "Правый глаз - Открытие"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "ParamGroup2",
+			"Name": "Левая бровь - Форма"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "ParamGroup2",
+			"Name": "Левая бровь - Высота"
+		},
+		{
+			"Id": "ParamBrowAngry",
+			"GroupId": "ParamGroup2",
+			"Name": "Брови - Злость"
+		},
+		{
+			"Id": "ParamB_Type",
+			"GroupId": "ParamGroup2",
+			"Name": "★Толщина бровей"
+		},
+		{
+			"Id": "ParamB_Type2",
+			"GroupId": "ParamGroup2",
+			"Name": "★Длина бровей"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "ParamGroup2",
+			"Name": "Правая бровь - Форма"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "ParamGroup2",
+			"Name": "Правая бровь - Высота"
+		},
+		{
+			"Id": "ParamFaceAngry",
+			"GroupId": "ParamGroup7",
+			"Name": "Выражение >_<"
+		},
+		{
+			"Id": "ParamSweat",
+			"GroupId": "ParamGroup7",
+			"Name": "Пот"
+		},
+		{
+			"Id": "ParamTears",
+			"GroupId": "ParamGroup7",
+			"Name": "Слезы"
+		},
+		{
+			"Id": "ParamKbEyeKirakira",
+			"GroupId": "ParamGroup7",
+			"Name": "Глаза - Блеск"
+		},
+		{
+			"Id": "ParamKbEyeGrgr",
+			"GroupId": "ParamGroup7",
+			"Name": "Глаза - Спирали"
+		},
+		{
+			"Id": "ParamBlackEyes",
+			"GroupId": "ParamGroup7",
+			"Name": "Зрачки (эффект)"
+		},
+		{
+			"Id": "ParamEyelashes",
+			"GroupId": "ParamGroup7",
+			"Name": "★Ресницы"
+		},
+		{
+			"Id": "ParamNose",
+			"GroupId": "ParamGroup7",
+			"Name": "★Нос"
+		},
+		{
+			"Id": "ParamHighlight1",
+			"GroupId": "ParamGroup7",
+			"Name": "★Блик - Большой"
+		},
+		{
+			"Id": "ParamHighlight2",
+			"GroupId": "ParamGroup7",
+			"Name": "★Блик - Малый"
+		},
+		{
+			"Id": "ParamHighlight3",
+			"GroupId": "ParamGroup7",
+			"Name": "★Блик - Нижний"
+		},
+		{
+			"Id": "ParamFaceBlue",
+			"GroupId": "ParamGroup7",
+			"Name": "Лицо - Бледность"
+		},
+		{
+			"Id": "ParamFaceRed",
+			"GroupId": "ParamGroup7",
+			"Name": "Румянец"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "ParamGroup5",
+			"Name": "Тело - Поворот Z"
+		},
+		{
+			"Id": "ParamBodyAngleX2",
+			"GroupId": "ParamGroup5",
+			"Name": "Тело - Поворот X"
+		},
+		{
+			"Id": "ParamBodyAngleY2",
+			"GroupId": "ParamGroup5",
+			"Name": "Тело - Поворот Y"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "ParamGroup5",
+			"Name": "Дыхание"
+		},
+		{
+			"Id": "ParamHalo",
+			"GroupId": "ParamGroup10",
+			"Name": "★Нимб"
+		},
+		{
+			"Id": "ParamHaloColor",
+			"GroupId": "ParamGroup10",
+			"Name": "★Цвет нимба"
+		},
+		{
+			"Id": "ParamWing",
+			"GroupId": "ParamGroup10",
+			"Name": "★Крылья"
+		},
+		{
+			"Id": "ParamWingColor",
+			"GroupId": "ParamGroup10",
+			"Name": "★Цвет крыльев"
+		},
+		{
+			"Id": "ParamDarkMole",
+			"GroupId": "ParamGroup10",
+			"Name": "★Родинка"
+		},
+		{
+			"Id": "ParamHorns",
+			"GroupId": "ParamGroup10",
+			"Name": "★Рога"
+		},
+		{
+			"Id": "ParamHorns3",
+			"GroupId": "ParamGroup10",
+			"Name": "★Длина рогов"
+		},
+		{
+			"Id": "ParamHorns2",
+			"GroupId": "ParamGroup10",
+			"Name": "★Цвет рогов"
+		},
+		{
+			"Id": "ParamFang",
+			"GroupId": "ParamGroup10",
+			"Name": "★Клыки"
+		},
+		{
+			"Id": "ParamEar",
+			"GroupId": "ParamGroup10",
+			"Name": "★Уши"
+		},
+		{
+			"Id": "ParamTail",
+			"GroupId": "ParamGroup10",
+			"Name": "★Хвост"
+		},
+		{
+			"Id": "ParamTailColor",
+			"GroupId": "ParamGroup10",
+			"Name": "★Цвет хвоста"
+		},
+		{
+			"Id": "ParamSkinColor",
+			"GroupId": "ParamGroup10",
+			"Name": "★Цвет кожи"
+		},
+		{
+			"Id": "ParamEyeglass",
+			"GroupId": "ParamGroup10",
+			"Name": "★Очки"
+		},
+		{
+			"Id": "ParamEyeglassColor",
+			"GroupId": "ParamGroup10",
+			"Name": "★Цвет очков"
+		},
+		{
+			"Id": "ParamHChangeCowlick",
+			"GroupId": "ParamGroup10",
+			"Name": "★Ахогэ (торчащий волосок)"
+		},
+		{
+			"Id": "ParamHChangeFront",
+			"GroupId": "ParamGroup10",
+			"Name": "★Челка"
+		},
+		{
+			"Id": "ParamHChangeFront2",
+			"GroupId": "ParamGroup10",
+			"Name": "★Длина челки"
+		},
+		{
+			"Id": "ParamHChangeSide",
+			"GroupId": "ParamGroup10",
+			"Name": "★Боковые пряди"
+		},
+		{
+			"Id": "ParamHChangeSide2",
+			"GroupId": "ParamGroup10",
+			"Name": "★Длина боковых прядей"
+		},
+		{
+			"Id": "ParamHChangeSide3",
+			"GroupId": "ParamGroup10",
+			"Name": "★Длина боковых прядей 2"
+		},
+		{
+			"Id": "ParamHChangeB",
+			"GroupId": "ParamGroup10",
+			"Name": "★Задние волосы"
+		},
+		{
+			"Id": "ParamHChangeBack2",
+			"GroupId": "ParamGroup10",
+			"Name": "★Длина задних волос"
+		},
+		{
+			"Id": "ParamCostume",
+			"GroupId": "ParamGroup6",
+			"Name": "★Смена костюма"
+		},
+		{
+			"Id": "ParamCostumeColor",
+			"GroupId": "ParamGroup6",
+			"Name": "★Цвет подкладки"
+		},
+		{
+			"Id": "ParamCostumeColor3",
+			"GroupId": "ParamGroup6",
+			"Name": "★Цвет одежды"
+		},
+		{
+			"Id": "ParamCostumeColor4",
+			"GroupId": "ParamGroup6",
+			"Name": "★Цвет шнурков"
+		},
+		{
+			"Id": "ParamCostumeColor2",
+			"GroupId": "ParamGroup6",
+			"Name": "★Цвет носков"
+		},
+		{
+			"Id": "ParamMoH",
+			"GroupId": "ParamGroup6",
+			"Name": "Махать рукой"
+		},
+		{
+			"Id": "ParamMoH2",
+			"GroupId": "ParamGroup6",
+			"Name": "Поднять руку"
+		},
+		{
+			"Id": "ParamMoH5",
+			"GroupId": "ParamGroup6",
+			"Name": "Скрыть предплечье"
+		},
+		{
+			"Id": "ParamMoH3",
+			"GroupId": "ParamGroup6",
+			"Name": "Контроллер (предмет)"
+		},
+		{
+			"Id": "ParamMoH4",
+			"GroupId": "ParamGroup6",
+			"Name": "★Цвет контроллера"
+		},
+		{
+			"Id": "ParamLoopControllerL1",
+			"GroupId": "ParamGroup8",
+			"Name": "Палец-петля контроллера Л"
+		},
+		{
+			"Id": "ParamLoopControllerL2",
+			"GroupId": "ParamGroup8",
+			"Name": "Палец-петля контроллера Л2"
+		},
+		{
+			"Id": "ParamLoopControllerR1",
+			"GroupId": "ParamGroup8",
+			"Name": "Палец-петля контроллера П"
+		},
+		{
+			"Id": "ParamLoopControllerR2",
+			"GroupId": "ParamGroup8",
+			"Name": "Палец-петля контроллера П2"
+		},
+		{
+			"Id": "ParamLoopGrgrEye2",
+			"GroupId": "ParamGroup8",
+			"Name": "Петля для спиральных глаз"
+		},
+		{
+			"Id": "ParamPhysicsXHandBY",
+			"GroupId": "ParamGroup4",
+			"Name": "Физика кисти X-BY"
+		},
+		{
+			"Id": "ParamPhysicsX2HandBY",
+			"GroupId": "ParamGroup4",
+			"Name": "Физика кисти X2-BY"
+		},
+		{
+			"Id": "ParamPhysicsXHand",
+			"GroupId": "ParamGroup4",
+			"Name": "Физика кисти X"
+		},
+		{
+			"Id": "ParamPhysicsX2Hand",
+			"GroupId": "ParamGroup4",
+			"Name": "Физика кисти X2"
+		},
+		{
+			"Id": "ParamPhysicsYHand",
+			"GroupId": "ParamGroup4",
+			"Name": "Физика кисти Y"
+		},
+		{
+			"Id": "ParamPhysicsY2Hand2",
+			"GroupId": "ParamGroup4",
+			"Name": "Физика кисти Y2"
+		},
+		{
+			"Id": "ParamEar_m",
+			"GroupId": "ParamGroup4",
+			"Name": "Связь ушей/крыльев/бровей"
+		},
+		{
+			"Id": "ParamPhysicsX",
+			"GroupId": "ParamGroup4",
+			"Name": "Физика аксессуаров X"
+		},
+		{
+			"Id": "ParamPhysicsX2",
+			"GroupId": "ParamGroup4",
+			"Name": "Физика аксессуаров X2"
+		},
+		{
+			"Id": "ParamPhysicsY",
+			"GroupId": "ParamGroup4",
+			"Name": "Физика аксессуаров Y"
+		},
+		{
+			"Id": "ParamPhysicsY2",
+			"GroupId": "ParamGroup4",
+			"Name": "Физика аксессуаров Y2"
+		},
+		{
+			"Id": "ParamPhysicsEarY",
+			"GroupId": "ParamGroup4",
+			"Name": "Физика крыльев Y"
+		},
+		{
+			"Id": "ParamPhysicsEarY2",
+			"GroupId": "ParamGroup4",
+			"Name": "Физика крыльев Y2"
+		},
+		{
+			"Id": "ParamPhysicsEarX",
+			"GroupId": "ParamGroup4",
+			"Name": "Физика крыльев X"
+		},
+		{
+			"Id": "ParamPhysicsEarX2",
+			"GroupId": "ParamGroup4",
+			"Name": "Физика крыльев X2"
+		},
+		{
+			"Id": "ParamHairFront3",
+			"GroupId": "ParamGroup3",
+			"Name": "Колебание волос Y"
+		},
+		{
+			"Id": "ParamHairFront4",
+			"GroupId": "ParamGroup3",
+			"Name": "Колебание волос Y2"
+		},
+		{
+			"Id": "ParamHairFront",
+			"GroupId": "ParamGroup3",
+			"Name": "Колебание волос X"
+		},
+		{
+			"Id": "ParamHairFront2",
+			"GroupId": "ParamGroup3",
+			"Name": "Колебание волос X2"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "ParamGroup13",
+			"Name": "Колебание хвоста 5"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "ParamGroup13",
+			"Name": "Колебание хвоста 4"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "ParamGroup13",
+			"Name": "Колебание хвоста 3"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "ParamGroup13",
+			"Name": "Колебание хвоста 2"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "ParamGroup13",
+			"Name": "Колебание хвоста 1"
+		},
+		{
+			"Id": "ParamBodyAngley3",
+			"GroupId": "ParamGroup11",
+			"Name": "Подпрыгивание тела Y"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "ParamGroup11",
+			"Name": "Тело - Поворот X (старый)"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "ParamGroup11",
+			"Name": "Тело - Поворот Y (старый)"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup9",
+			"GroupId": "",
+			"Name": "Рот"
+		},
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "Глаза"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "Брови"
+		},
+		{
+			"Id": "ParamGroup7",
+			"GroupId": "",
+			"Name": "Выражения лица (доп.)"
+		},
+		{
+			"Id": "ParamGroup5",
+			"GroupId": "",
+			"Name": "Тело ★"
+		},
+		{
+			"Id": "ParamGroup10",
+			"GroupId": "",
+			"Name": "Дополнительные опции"
+		},
+		{
+			"Id": "ParamGroup6",
+			"GroupId": "",
+			"Name": "Руки (доп.)"
+		},
+		{
+			"Id": "ParamGroup8",
+			"GroupId": "",
+			"Name": "Для зацикливания (Loop)"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "Прочие колебания"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "Колебания волос"
+		},
+		{
+			"Id": "ParamGroup13",
+			"GroupId": "",
+			"Name": "Колебания хвоста"
+		},
+		{
+			"Id": "ParamGroup11",
+			"GroupId": "",
+			"Name": "Тело"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part151",
+			"Name": "Махание рукой (Bye-bye)"
+		},
+		{
+			"Id": "Part121",
+			"Name": "Махание рукой (Bye-bye) 2"
+		},
+		{
+			"Id": "Part124",
+			"Name": "Контроллер (предмет)"
+		},
+		{
+			"Id": "Part136",
+			"Name": "Голова"
+		},
+		{
+			"Id": "Part127",
+			"Name": "Тело"
+		},
+		{
+			"Id": "Part30",
+			"Name": "Задние волосы/Прямые"
+		},
+		{
+			"Id": "Part29",
+			"Name": "Задние волосы/Прямые 2"
+		},
+		{
+			"Id": "Part147",
+			"Name": "Задние волосы"
+		},
+		{
+			"Id": "Part144",
+			"Name": "Задние волосы 2"
+		},
+		{
+			"Id": "Part15",
+			"Name": "Задние волосы/Длинные"
+		},
+		{
+			"Id": "Part26",
+			"Name": "Задние волосы/Длинные 2"
+		},
+		{
+			"Id": "Part23",
+			"Name": "Нимб"
+		},
+		{
+			"Id": "Part145",
+			"Name": "Хвост"
+		},
+		{
+			"Id": "Part41",
+			"Name": "Предупреждение (текст)"
+		},
+		{
+			"Id": "PartSketch0",
+			"Name": "[ Эскиз ]"
+		},
+		{
+			"Id": "Part152",
+			"Name": "Мах - Рукав (перед)"
+		},
+		{
+			"Id": "Part153",
+			"Name": "Мах - Рукав (зад)"
+		},
+		{
+			"Id": "Part122",
+			"Name": "Мах - Рукав (перед) 2"
+		},
+		{
+			"Id": "Part123",
+			"Name": "Мах - Рукав (зад) 2"
+		},
+		{
+			"Id": "Part125",
+			"Name": "Контроллер - Рукав (лицо)"
+		},
+		{
+			"Id": "Part106",
+			"Name": "Рука с контроллером"
+		},
+		{
+			"Id": "Part107",
+			"Name": "Контроллер (предмет) 2"
+		},
+		{
+			"Id": "Part126",
+			"Name": "Контроллер - Рукав (изн.)"
+		},
+		{
+			"Id": "Part138",
+			"Name": "Челка"
+		},
+		{
+			"Id": "Part14",
+			"Name": "Рога"
+		},
+		{
+			"Id": "Part22",
+			"Name": "Уши - Медвежьи"
+		},
+		{
+			"Id": "Part8",
+			"Name": "Верхние боковые пряди"
+		},
+		{
+			"Id": "Part149",
+			"Name": "Уши - Звериные"
+		},
+		{
+			"Id": "Part143",
+			"Name": "Уши - Звериные 2"
+		},
+		{
+			"Id": "Part109",
+			"Name": "Очки"
+		},
+		{
+			"Id": "Part142",
+			"Name": "Боковые пряди"
+		},
+		{
+			"Id": "Part6",
+			"Name": "Содержимое лица"
+		},
+		{
+			"Id": "Part7",
+			"Name": "Крылья - Демонические"
+		},
+		{
+			"Id": "Part93",
+			"Name": "Крылья - Ангельские"
+		},
+		{
+			"Id": "Part9",
+			"Name": "Воротник парки (лицо)"
+		},
+		{
+			"Id": "Part",
+			"Name": "Воротник парки (лицо) 2"
+		},
+		{
+			"Id": "Part132",
+			"Name": "Куртка"
+		},
+		{
+			"Id": "Part128",
+			"Name": "Куртка 2"
+		},
+		{
+			"Id": "Part129",
+			"Name": "Парка"
+		},
+		{
+			"Id": "Part154",
+			"Name": "Опущенная рука"
+		},
+		{
+			"Id": "Part131",
+			"Name": "Опущенная рука 2"
+		},
+		{
+			"Id": "Part150",
+			"Name": "Ноги"
+		},
+		{
+			"Id": "Part130",
+			"Name": "Ноги 2"
+		},
+		{
+			"Id": "Part119",
+			"Name": "Область шеи"
+		},
+		{
+			"Id": "Part5",
+			"Name": "Ахогэ (торчащий волосок)"
+		},
+		{
+			"Id": "Part139",
+			"Name": "Центральный пробор"
+		},
+		{
+			"Id": "Part140",
+			"Name": "Боковой пробор"
+		},
+		{
+			"Id": "Part141",
+			"Name": "Челка - Обычная"
+		},
+		{
+			"Id": "Part12",
+			"Name": "Очки (центр)"
+		},
+		{
+			"Id": "Part148",
+			"Name": "Боковые пряди 2"
+		},
+		{
+			"Id": "Part137",
+			"Name": "Брови (часть)"
+		},
+		{
+			"Id": "Part135",
+			"Name": "Глаза (часть)"
+		},
+		{
+			"Id": "Part133",
+			"Name": "Глаза (часть) 2"
+		},
+		{
+			"Id": "Part111",
+			"Name": "Рот (часть)"
+		},
+		{
+			"Id": "Part115",
+			"Name": "Уши - Эльфийские"
+		},
+		{
+			"Id": "Part13",
+			"Name": "Бакенбарды"
+		},
+		{
+			"Id": "Part116",
+			"Name": "Контур лица"
+		},
+		{
+			"Id": "Part4",
+			"Name": "Часть 43"
+		},
+		{
+			"Id": "Part3",
+			"Name": "Часть 42"
+		},
+		{
+			"Id": "Part2",
+			"Name": "Часть 41"
+		},
+		{
+			"Id": "Part10",
+			"Name": "Прозрачность глаз"
+		},
+		{
+			"Id": "KB2",
+			"Name": "KB"
+		},
+		{
+			"Id": "Part146",
+			"Name": "Зрачки (группа)"
+		},
+		{
+			"Id": "Part11",
+			"Name": "Прозрачность глаз 2"
+		},
+		{
+			"Id": "KB",
+			"Name": "KB 2"
+		},
+		{
+			"Id": "Part134",
+			"Name": "Зрачки (группа) 2"
+		},
+		{
+			"Id": "kb",
+			"Name": "kb"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamAngleX",
+			"ParamAngleY"
+		],
+		[
+			"ParamMouthForm",
+			"ParamMouthOpenY"
+		],
+		[
+			"ParamEyeBallX",
+			"ParamEyeBallY"
+		]
+	]
+}

@@ -1,0 +1,252 @@
+{
+  "nav": {
+    "features": "Features",
+    "app": "App",
+    "safety": "Safety",
+    "pricing": "Pricing",
+    "getAccess": "Get Access",
+    "contacts": "Contacts"
+  },
+  "hero": {
+    "badge": "Early access is open — join the beta test",
+    "title1": "Digital friend",
+    "title2": "for your child",
+    "description": "MAVU is the first emotional AI friend for children aged 5–12.",
+    "descriptionHighlight": "Listens, understands emotions and supports",
+    "descriptionEnd": "in difficult moments.",
+    "buyPromo": "Buy promo code — $11",
+    "learnMore": "Learn more",
+    "stats": {
+      "beta": "already in beta",
+      "age": "years — target age",
+      "always": "always there"
+    }
+  },
+  "features": {
+    "badge": "Features",
+    "title": "Not just an app —",
+    "titleHighlight": "a real friend",
+    "description": "MAVU is created for support, connection, and friendship. Not for learning, not for gamification.",
+    "voice": {
+      "title": "Voice dialogue",
+      "description": "Speaks in a soft, understandable voice adapted for children"
+    },
+    "emotions": {
+      "title": "Understands emotions",
+      "description": "Recognizes mood and responds with empathy"
+    },
+    "safety": {
+      "title": "100% safety",
+      "description": "Notifications for parents at any alarming signals"
+    },
+    "listen": {
+      "title": "Listens and understands",
+      "description": "MAVU listens carefully to each child, remembers important details and responds with genuine empathy"
+    },
+    "stories": {
+      "title": "Tells stories",
+      "description": "Engaging personalized stories that help understand yourself and the world around you"
+    },
+    "recognize": {
+      "title": "Recognizes emotions",
+      "description": "Understands the child's mood and adapts communication, helping to cope with difficult moments"
+    },
+    "parents": {
+      "title": "For parents",
+      "description": "A tool for understanding, not control. See what worries your child without invading their privacy"
+    }
+  },
+  "screenshots": {
+    "badge": "App",
+    "title": "How MAVU looks",
+    "description": "Intuitive interface designed specifically for children",
+    "chat": "Chat with MAVU",
+    "main": "Your friend is always there",
+    "mainScreen": "Main app screen",
+    "forParents": "For parents",
+    "screenshot": "App screenshot",
+    "tags": {
+      "ios": "iOS & Android",
+      "russian": "Russian language",
+      "voice": "Voice control",
+      "offline": "Offline mode"
+    }
+  },
+  "safety": {
+    "badge": "Safety",
+    "title": "Protection —",
+    "titleHighlight": "comes first",
+    "description": "We build MAVU around the principle of maximum safety for children.",
+    "alarm": {
+      "title": "Detects warning signs",
+      "description": "The system instantly detects signs of stress or danger"
+    },
+    "calm": {
+      "title": "Gently calms down",
+      "description": "Helps cope with anxiety calmly and carefully"
+    },
+    "notify": {
+      "title": "Notifies parents",
+      "description": "In case of risk, the parent receives a notification instantly"
+    },
+    "note": "We don't read private conversations. We don't replace parents. We give them the opportunity to be there when it matters most.",
+    "important": "Important:"
+  },
+  "pricing": {
+    "badge": "Closed beta test",
+    "title": "Be among",
+    "titleHighlight": "the first",
+    "description": "140+ people have already gained access to MAVU",
+    "priceLabel": "Promo code price",
+    "testPeriod": "for the entire testing period",
+    "features": {
+      "full": "Full access to all features",
+      "unlimited": "Unlimited communication with MAVU",
+      "parents": "Parent dashboard",
+      "support": "Priority support"
+    },
+    "buyButton": "Buy promo code",
+    "comparison": "2 times cheaper than ChatGPT and hundreds of times cheaper than a psychologist"
+  },
+  "cta": {
+    "title": "We're creating a friend",
+    "subtitle": "And that changes everything.",
+    "button": "Get access"
+  },
+  "footer": {
+    "copyright": "© 2025 MAVU AI. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "offer": "Public Offer",
+    "contacts": "Contacts"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdate": "Last update:",
+    "intro": "This Privacy Policy describes how MAVU AI collects, uses and protects user information.",
+    "sections": {
+      "collect": {
+        "title": "1. What information we collect",
+        "content": "We collect the following types of information:\n• Account information (email, parent's name)\n• Child's age (for content customization)\n• App usage data\n• Voice recordings for request processing (not stored)\n• Emotional patterns to improve interaction"
+      },
+      "use": {
+        "title": "2. How we use information",
+        "content": "Collected information is used to:\n• Personalize the experience of communication with MAVU\n• Provide parents with general information about the child's emotional state\n• Improve the quality of our services\n• Ensure user safety"
+      },
+      "protect": {
+        "title": "3. How we protect information",
+        "content": "We apply modern security measures:\n• Data encryption during transmission and storage\n• Limited access to personal data\n• Regular security audits\n• COPPA compliance for child protection"
+      },
+      "share": {
+        "title": "4. Third-party data sharing",
+        "content": "We do not sell personal data. Data may be shared:\n• With service providers to ensure app functionality\n• As required by law\n• To protect user rights and safety"
+      },
+      "rights": {
+        "title": "5. Your rights",
+        "content": "You have the right to:\n• Request access to your data\n• Correct inaccurate data\n• Delete your account and all data\n• Withdraw consent to data processing"
+      },
+      "contact": {
+        "title": "6. Contacts",
+        "content": "For privacy questions, contact:\nEmail: privacy@mavu.ai"
+      }
+    }
+  },
+  "offer": {
+    "title": "Public Offer",
+    "lastUpdate": "Last update:",
+    "intro": "This document is an official proposal (offer) to enter into an agreement for the use of MAVU AI service.",
+    "sections": {
+      "terms": {
+        "title": "1. Terms and definitions",
+        "content": "• Service — MAVU AI mobile application\n• User — a person who accepted the offer\n• Subscription — paid access to Service features\n• Promo code — code for subscription activation"
+      },
+      "subject": {
+        "title": "2. Subject of the agreement",
+        "content": "The Provider grants the User access to the MAVU AI Service functionality on a paid subscription basis. The Service is intended for emotional support of children aged 5-12 years."
+      },
+      "price": {
+        "title": "3. Cost and payment procedure",
+        "content": "• Subscription cost: $11 per month\n• Payment is made through available payment systems\n• Subscription is activated immediately after payment confirmation\n• Promo code is valid for 30 days from the date of purchase"
+      },
+      "rights": {
+        "title": "4. Rights and obligations of parties",
+        "content": "The Provider undertakes to:\n• Provide access to the Service 24/7\n• Ensure data security\n• Notify about changes in conditions\n\nThe User undertakes to:\n• Provide accurate information\n• Not violate the terms of use\n• Ensure control over the child's use"
+      },
+      "liability": {
+        "title": "5. Liability",
+        "content": "• The Service does not replace professional psychological help\n• The Provider is not responsible for decisions made based on Service recommendations\n• Maximum liability is limited to the cost of the paid subscription"
+      },
+      "termination": {
+        "title": "6. Termination of agreement",
+        "content": "• The User may cancel the subscription at any time\n• Refunds are made within 7 days from the date of payment\n• The Provider has the right to block access in case of rules violation"
+      }
+    }
+  },
+  "contacts": {
+    "title": "Contacts",
+    "subtitle": "Get in touch",
+    "description": "We're always happy to help and answer your questions",
+    "email": {
+      "title": "Email",
+      "general": "General inquiries"
+    },
+    "telegram": {
+      "title": "Support",
+      "description": "Quick help for any questions via Telegram",
+      "button": "Message on Telegram"
+    }
+  },
+  "purchase": {
+    "title": "Buy Promo Code",
+    "subtitle": "Payment via Payme",
+    "paymentMethod": "Payment method",
+    "methods": {
+      "payme": "Payme"
+    },
+    "paymeDesc": "Fast and secure payment",
+    "orderSummary": "Total to pay",
+    "promo": "MAVU AI Promo Code",
+    "month": "For the entire testing period",
+    "processing": "Processing payment...",
+    "payButton": "Pay with Payme",
+    "secure": "Secure payment. Your data is protected.",
+    "agreement": "By clicking «Pay», you agree to the",
+    "offerLink": "public offer",
+    "error": "Payment initialization failed. Please try again."
+  },
+  "paymentResult": {
+    "title": "Payment Result",
+    "checking": "Checking payment status...",
+    "pleaseWait": "Please wait",
+    "pending": "Payment is being processed",
+    "pendingDesc": "Your payment is still being processed. We'll send you the promo code via email once confirmed.",
+    "failedTitle": "Payment failed",
+    "failedDesc": "Unfortunately, the payment did not go through. Please try again.",
+    "failed": "Payment was not completed",
+    "cancelled": "Payment was cancelled",
+    "invalidParams": "Invalid payment parameters",
+    "checkError": "Error checking payment status",
+    "tryAgain": "Try again",
+    "backHome": "Back to home"
+  },
+  "success": {
+    "title": "Payment successful!",
+    "subtitle": "Your promo code is ready",
+    "promoLabel": "Your promo code:",
+    "copy": "Copy",
+    "copied": "Copied!",
+    "instructions": {
+      "title": "How to activate:",
+      "step1": "Download MAVU AI app",
+      "step2": "Create an account",
+      "step3": "Enter promo code in settings"
+    },
+    "download": "Download app",
+    "backHome": "Back to home"
+  },
+  "notFound": {
+    "title": "404",
+    "subtitle": "Page not found",
+    "description": "Seems like this page got lost in space. But don't worry, MAVU will help you find your way home!",
+    "backHome": "Back to home"
+  }
+}

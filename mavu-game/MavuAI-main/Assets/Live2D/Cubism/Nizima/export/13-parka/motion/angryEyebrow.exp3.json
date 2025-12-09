@@ -1,0 +1,10 @@
+{
+	"Type": "Live2D Expression",
+	"Parameters": [
+		{
+			"Id": "ParamBrowAngry",
+			"Value": -1,
+			"Blend": "Add"
+		}
+	]
+}

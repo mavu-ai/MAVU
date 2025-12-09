@@ -1,0 +1,218 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a69feb2240d24171acd2228d3db99f70, type: 3}
+  m_Name: CustomizationDatabase
+  m_EditorClassIdentifier: 
+  textureSlots:
+  - originalTextureName: texture_00
+    options:
+    - optionId: black
+      texture: {fileID: 2800000, guid: 496d5745abccf894dbfeaa1835275286, type: 3}
+      icon: {fileID: 21300000, guid: 53ed21b80269440488d15119589a9cc7, type: 3}
+    - optionId: blue
+      texture: {fileID: 2800000, guid: dda0086142d8d624ca5e7a2a47d664ed, type: 3}
+      icon: {fileID: 21300000, guid: 711abff002c4d0e48afa8a227ab7a22f, type: 3}
+    - optionId: brown
+      texture: {fileID: 2800000, guid: 19276c7268725a346ad575b9d72cdf3f, type: 3}
+      icon: {fileID: 21300000, guid: 5402654657ad78646a42ee4e31834b38, type: 3}
+    - optionId: green
+      texture: {fileID: 2800000, guid: aac20f8d67ccbf64e838edf341c4a11d, type: 3}
+      icon: {fileID: 21300000, guid: 8aa71336ad561c5479f02434ade26eb5, type: 3}
+    - optionId: light-blue
+      texture: {fileID: 2800000, guid: b44a115998fac4d48aa62a061e60d2fa, type: 3}
+      icon: {fileID: 21300000, guid: 2c630538e1e1ebf489cacf41c9a47746, type: 3}
+    - optionId: pink
+      texture: {fileID: 2800000, guid: 8245c1a264e330b41bc6b5843a2e6a26, type: 3}
+      icon: {fileID: 21300000, guid: 024233f1e9d52f642aff51bfa8c3e529, type: 3}
+    - optionId: purple
+      texture: {fileID: 2800000, guid: d27313077d4c84e438edb5a7fd49eb24, type: 3}
+      icon: {fileID: 21300000, guid: e5c9ad7c9046fc9479eca938bdca3ab7, type: 3}
+    - optionId: white
+      texture: {fileID: 2800000, guid: 7d212cbfc3baf184d8fd9e5c38972367, type: 3}
+      icon: {fileID: 21300000, guid: 0b90939b9da7fbc4abc121bf004187fa, type: 3}
+    - optionId: red
+      texture: {fileID: 2800000, guid: d404d18d36f1aa740a2c6ed8250e6f49, type: 3}
+      icon: {fileID: 21300000, guid: f7b9ac794a9097e469c944adac3b2833, type: 3}
+    - optionId: yellow
+      texture: {fileID: 2800000, guid: 0fd24cc0aae78db4592c3567a87a7419, type: 3}
+      icon: {fileID: 21300000, guid: 9a9439b4c120c374fa2edc339984948a, type: 3}
+    - optionId: yellow-green
+      texture: {fileID: 2800000, guid: d70f7abe853402a4d822820d6ba4edbf, type: 3}
+      icon: {fileID: 21300000, guid: 8b0a640808e249a4cb79096fefcc4187, type: 3}
+  - originalTextureName: texture_01
+    options:
+    - optionId: black
+      texture: {fileID: 2800000, guid: 97c4316abd7f9a04fabdfa3f0569f55d, type: 3}
+      icon: {fileID: 21300000, guid: 5ef56c37be10b0144919be81f6e58945, type: 3}
+    - optionId: blue
+      texture: {fileID: 2800000, guid: 422cc7c6eafab6e458c33959ddaaf82e, type: 3}
+      icon: {fileID: 21300000, guid: b3aeb33e89cf9e54f981918f5a1f833f, type: 3}
+    - optionId: brown
+      texture: {fileID: 2800000, guid: da03a8e610eea0e48ade03bfaee4f1a5, type: 3}
+      icon: {fileID: 21300000, guid: 57147be8982b1e44b9b38ea3c876e218, type: 3}
+    - optionId: green
+      texture: {fileID: 2800000, guid: 0c599e14feb2d9848af4bef431b0d368, type: 3}
+      icon: {fileID: 21300000, guid: d8d95c65b5ffdd24a8fe0ff9b6dca3be, type: 3}
+    - optionId: light-blue
+      texture: {fileID: 2800000, guid: 7ec7ddb5110d29341b7b136c371375e3, type: 3}
+      icon: {fileID: 21300000, guid: d965d974669cbee49a3c7d72f243d5d8, type: 3}
+    - optionId: pink
+      texture: {fileID: 2800000, guid: 4b9dd214e0a8b4e4fbcabac4dfa5ee04, type: 3}
+      icon: {fileID: 21300000, guid: 814d2a3b7184ffb4da1ed09ec275e820, type: 3}
+    - optionId: purple
+      texture: {fileID: 2800000, guid: 5db441c1f1b7c754a895b2dc60373460, type: 3}
+      icon: {fileID: 21300000, guid: f532a0b16b20c954a9ec8b744e7a993b, type: 3}
+    - optionId: white
+      texture: {fileID: 2800000, guid: aaab09d0d22a2b742a869a861c28df25, type: 3}
+      icon: {fileID: 21300000, guid: d3db2c89f0a556445b8bc7277db96d08, type: 3}
+    - optionId: red
+      texture: {fileID: 2800000, guid: 76f6dac40d025984ebd006ce8e772840, type: 3}
+      icon: {fileID: 21300000, guid: 76b4370f77a3d69449b716fb57f48e96, type: 3}
+    - optionId: yellow
+      texture: {fileID: 2800000, guid: b427d77d3bcd81d4385f8039a93ce1ac, type: 3}
+      icon: {fileID: 21300000, guid: 7277d2cc7b9e19c45ad9dd967dfd13dc, type: 3}
+    - optionId: yellow-green
+      texture: {fileID: 2800000, guid: 61afd743c7d504f4f9e98e88488fc282, type: 3}
+      icon: {fileID: 21300000, guid: e9dc3826aa009334e9e0ea6f75d5fafb, type: 3}
+    - optionId: light-purple
+      texture: {fileID: 2800000, guid: 22f5e4b893076764589c39071ce55fc3, type: 3}
+      icon: {fileID: 21300000, guid: f532a0b16b20c954a9ec8b744e7a993b, type: 3}
+    - optionId: orange
+      texture: {fileID: 2800000, guid: b97b92563ff2a1148ba0f0c9a78b98d9, type: 3}
+      icon: {fileID: 21300000, guid: e607558849f4ad04d9c58d402f591fca, type: 3}
+  - originalTextureName: texture_02
+    options:
+    - optionId: black
+      texture: {fileID: 2800000, guid: b078f1d868a8e2d41bb4d93244e441ee, type: 3}
+      icon: {fileID: 0}
+    - optionId: white
+      texture: {fileID: 2800000, guid: 792b6eec85e04a744add068bca9f5bc7, type: 3}
+      icon: {fileID: 0}
+  parameterSlots:
+  - slotId: clothing_color
+    options:
+    - optionId: white
+      icon: {fileID: 21300000, guid: 0e05e40111b32754cb0daf6c8781a301, type: 3}
+      settings:
+      - parameterId: ParamCostumeColor3
+        value: 0
+      - parameterId: ParamCostumeColor
+        value: 0
+    - optionId: red
+      icon: {fileID: 21300000, guid: 92cffd52dba62994c8074f393d8e98da, type: 3}
+      settings:
+      - parameterId: ParamCostumeColor3
+        value: 0.1
+      - parameterId: ParamCostumeColor
+        value: 0.1
+    - optionId: brown-light
+      icon: {fileID: 21300000, guid: e308a6e23c0ee2f4aa229976f3230636, type: 3}
+      settings:
+      - parameterId: ParamCostumeColor3
+        value: 0.15
+      - parameterId: ParamCostumeColor
+        value: 0.15
+    - optionId: brown
+      icon: {fileID: 21300000, guid: fc5175fc898ec0c489d29d07477dbbf0, type: 3}
+      settings:
+      - parameterId: ParamCostumeColor3
+        value: 0.2
+      - parameterId: ParamCostumeColor
+        value: 0.2
+    - optionId: black
+      icon: {fileID: 21300000, guid: b481b44f166d9064eba7782820b82baf, type: 3}
+      settings:
+      - parameterId: ParamCostumeColor3
+        value: 1
+      - parameterId: ParamCostumeColor
+        value: 1
+    - optionId: gray
+      icon: {fileID: 21300000, guid: 98e791c63dc7a3a4395d117bf7df19cc, type: 3}
+      settings:
+      - parameterId: ParamCostumeColor3
+        value: 1.03
+      - parameterId: ParamCostumeColor
+        value: 1.03
+    - optionId: yellow
+      icon: {fileID: 21300000, guid: a72bc626ccfcaa7498fddb7e669a3bf4, type: 3}
+      settings:
+      - parameterId: ParamCostumeColor3
+        value: 0.3
+      - parameterId: ParamCostumeColor
+        value: 0.3
+    - optionId: green
+      icon: {fileID: 21300000, guid: d45f09484664b524288fd2d15c62c255, type: 3}
+      settings:
+      - parameterId: ParamCostumeColor3
+        value: 0.4
+      - parameterId: ParamCostumeColor
+        value: 0.4
+    - optionId: light-blue
+      icon: {fileID: 21300000, guid: 59b0a0544d5b44342b7f7dd7210a6e61, type: 3}
+      settings:
+      - parameterId: ParamCostumeColor3
+        value: 0.5
+      - parameterId: ParamCostumeColor
+        value: 0.5
+    - optionId: blue
+      icon: {fileID: 21300000, guid: 36e67f2ae2df5574cb364c4db25c1f2f, type: 3}
+      settings:
+      - parameterId: ParamCostumeColor3
+        value: 0.6
+      - parameterId: ParamCostumeColor
+        value: 0.6
+    - optionId: purple
+      icon: {fileID: 21300000, guid: 4bcaf2dd71f39c746b686b66dc4aebe1, type: 3}
+      settings:
+      - parameterId: ParamCostumeColor3
+        value: 0.7
+      - parameterId: ParamCostumeColor
+        value: 0.7
+    - optionId: pink
+      icon: {fileID: 21300000, guid: 03e10c1437327cd4d923c7557dc33bc9, type: 3}
+      settings:
+      - parameterId: ParamCostumeColor3
+        value: 0.8
+      - parameterId: ParamCostumeColor
+        value: 0.8
+  - slotId: head_ears
+    options:
+    - optionId: noEars
+      icon: {fileID: 21300000, guid: 029e38612bb272741bfe4f306bb25d9f, type: 3}
+      settings:
+      - parameterId: ParamEar
+        value: 1
+    - optionId: wolf
+      icon: {fileID: 21300000, guid: a03c073a5758f91439de0d44919f6920, type: 3}
+      settings:
+      - parameterId: ParamEar
+        value: 0.1
+    - optionId: elf
+      icon: {fileID: 21300000, guid: f4101b731347e2a44b8200bf01345de8, type: 3}
+      settings:
+      - parameterId: ParamEar
+        value: 0.2
+    - optionId: panda
+      icon: {fileID: 21300000, guid: c3c6a6a6f65c4c5498bc1a894d2b3338, type: 3}
+      settings:
+      - parameterId: ParamEar
+        value: 0.3
+    - optionId: rabbit
+      icon: {fileID: 21300000, guid: c05e4c83626eadd4aa05628ff1863c2d, type: 3}
+      settings:
+      - parameterId: ParamEar
+        value: 0.4
+    - optionId: cat
+      icon: {fileID: 21300000, guid: 310e97789e99c8a4d90cfe9f732b134a, type: 3}
+      settings:
+      - parameterId: ParamEar
+        value: 0

@@ -1,0 +1,252 @@
+{
+  "nav": {
+    "features": "Imkoniyatlar",
+    "app": "Ilova",
+    "safety": "Xavfsizlik",
+    "pricing": "Narx",
+    "getAccess": "Kirish olish",
+    "contacts": "Kontaktlar"
+  },
+  "hero": {
+    "badge": "Erta kirish ochiq — beta-testga qo'shiling",
+    "title1": "Raqamli do'st",
+    "title2": "farzandingiz uchun",
+    "description": "MAVU — 5-12 yoshli bolalar uchun birinchi hissiy sun'iy intellekt do'st.",
+    "descriptionHighlight": "Tinglaydi, his-tuyg'ularni tushunadi va qo'llab-quvvatlaydi",
+    "descriptionEnd": "qiyin paytlarda.",
+    "buyPromo": "Promokod sotib olish — $11",
+    "learnMore": "Batafsil",
+    "stats": {
+      "beta": "allaqachon beta-testda",
+      "age": "yosh — maqsadli yosh",
+      "always": "doimo yoningizda"
+    }
+  },
+  "features": {
+    "badge": "Imkoniyatlar",
+    "title": "Oddiy ilova emas —",
+    "titleHighlight": "haqiqiy do'st",
+    "description": "MAVU qo'llab-quvvatlash, aloqa va do'stlik uchun yaratilgan. O'qitish uchun emas, o'yinlashtirish uchun emas.",
+    "voice": {
+      "title": "Ovozli suhbat",
+      "description": "Bolalar uchun moslashtirilgan yumshoq, tushunarli ovozda gaplashadi"
+    },
+    "emotions": {
+      "title": "His-tuyg'ularni tushunadi",
+      "description": "Kayfiyatni aniqlaydi va hamdardlik bilan javob beradi"
+    },
+    "safety": {
+      "title": "100% xavfsizlik",
+      "description": "Har qanday xavotirli signallarda ota-onalarga bildirishnomalar"
+    },
+    "listen": {
+      "title": "Tinglaydi va tushunadi",
+      "description": "MAVU har bir bolani diqqat bilan tinglaydi, muhim tafsilotlarni eslab qoladi va haqiqiy hamdardlik bilan javob beradi"
+    },
+    "stories": {
+      "title": "Hikoyalar aytib beradi",
+      "description": "O'zingizni va atrofdagi dunyoni tushunishga yordam beradigan qiziqarli shaxsiylashtirilgan hikoyalar"
+    },
+    "recognize": {
+      "title": "His-tuyg'ularni aniqlaydi",
+      "description": "Bolaning kayfiyatini tushunadi va muloqotni moslashtiradi, qiyin paytlarni boshdan kechirishga yordam beradi"
+    },
+    "parents": {
+      "title": "Ota-onalar uchun",
+      "description": "Nazorat emas, tushunish vositasi. Shaxsiy hayotga aralashmasdan bolangizni nima tashvishlantirayotganini ko'ring"
+    }
+  },
+  "screenshots": {
+    "badge": "Ilova",
+    "title": "MAVU qanday ko'rinadi",
+    "description": "Bolalar uchun maxsus ishlab chiqilgan intuitiv interfeys",
+    "chat": "MAVU bilan suhbat",
+    "main": "Do'stingiz doimo yoningizda",
+    "mainScreen": "Ilovaning asosiy ekrani",
+    "forParents": "Ota-onalar uchun",
+    "screenshot": "Ilova skrinshoti",
+    "tags": {
+      "ios": "iOS & Android",
+      "russian": "O'zbek tili",
+      "voice": "Ovozli boshqaruv",
+      "offline": "Oflayn rejim"
+    }
+  },
+  "safety": {
+    "badge": "Xavfsizlik",
+    "title": "Himoya —",
+    "titleHighlight": "eng avvalo",
+    "description": "Biz MAVU-ni bolalar uchun maksimal xavfsizlik tamoyili asosida quramiz.",
+    "alarm": {
+      "title": "Xavotirli signallarni aniqlaydi",
+      "description": "Tizim stress yoki xavf belgilarini bir zumda aniqlaydi"
+    },
+    "calm": {
+      "title": "Yumshoq tinchlantiradi",
+      "description": "Xavotirni tinch va ehtiyotkorlik bilan engishga yordam beradi"
+    },
+    "notify": {
+      "title": "Ota-onalarni xabardor qiladi",
+      "description": "Xavf bo'lganda ota-ona bir zumda bildirishnoma oladi"
+    },
+    "note": "Biz shaxsiy suhbatlarni o'qimaymiz. Biz ota-onalarni almashtirolmaymiz. Biz ularga eng muhim paytda yonida bo'lish imkoniyatini beramiz.",
+    "important": "Muhim:"
+  },
+  "pricing": {
+    "badge": "Yopiq beta-test",
+    "title": "Birinchilardan",
+    "titleHighlight": "bo'ling",
+    "description": "140+ kishi allaqachon MAVU-ga kirish oldi",
+    "priceLabel": "Promokod narxi",
+    "testPeriod": "butun sinov davri uchun",
+    "features": {
+      "full": "Barcha funktsiyalarga to'liq kirish",
+      "unlimited": "MAVU bilan cheksiz muloqot",
+      "parents": "Ota-onalar paneli",
+      "support": "Ustuvor qo'llab-quvvatlash"
+    },
+    "buyButton": "Promokod sotib olish",
+    "comparison": "ChatGPT-dan 2 baravar arzon va psixologdan yuzlab marta arzon"
+  },
+  "cta": {
+    "title": "Biz do'st yaratyapmiz",
+    "subtitle": "Va bu hamma narsani o'zgartiradi.",
+    "button": "Kirish olish"
+  },
+  "footer": {
+    "copyright": "© 2025 MAVU AI. Barcha huquqlar himoyalangan.",
+    "privacy": "Maxfiylik siyosati",
+    "offer": "Ommaviy oferta",
+    "contacts": "Kontaktlar"
+  },
+  "privacy": {
+    "title": "Maxfiylik siyosati",
+    "lastUpdate": "Oxirgi yangilanish:",
+    "intro": "Ushbu Maxfiylik siyosati MAVU AI foydalanuvchilar ma'lumotlarini qanday to'plashi, foydalanishi va himoya qilishini tavsiflaydi.",
+    "sections": {
+      "collect": {
+        "title": "1. Qanday ma'lumotlarni to'playmiz",
+        "content": "Biz quyidagi turdagi ma'lumotlarni to'playmiz:\n• Hisob ma'lumotlari (email, ota-ona ismi)\n• Bolaning yoshi (kontentni sozlash uchun)\n• Ilovadan foydalanish ma'lumotlari\n• So'rovlarni qayta ishlash uchun ovozli yozuvlar (saqlanmaydi)\n• O'zaro ta'sirni yaxshilash uchun hissiy naqshlar"
+      },
+      "use": {
+        "title": "2. Ma'lumotlardan qanday foydalanamiz",
+        "content": "To'plangan ma'lumotlar quyidagilar uchun ishlatiladi:\n• MAVU bilan muloqot tajribasini shaxsiylashtirish\n• Ota-onalarga bolaning hissiy holati haqida umumiy ma'lumot berish\n• Xizmatlarimiz sifatini yaxshilash\n• Foydalanuvchilar xavfsizligini ta'minlash"
+      },
+      "protect": {
+        "title": "3. Ma'lumotlarni qanday himoya qilamiz",
+        "content": "Biz zamonaviy xavfsizlik choralarini qo'llaymiz:\n• Uzatish va saqlash paytida ma'lumotlarni shifrlash\n• Shaxsiy ma'lumotlarga cheklangan kirish\n• Muntazam xavfsizlik auditi\n• Bolalarni himoya qilish uchun COPPA standartlariga muvofiqlik"
+      },
+      "share": {
+        "title": "4. Ma'lumotlarni uchinchi tomonlarga uzatish",
+        "content": "Biz shaxsiy ma'lumotlarni sotmaymiz. Ma'lumotlar uzatilishi mumkin:\n• Ilovaning ishlashini ta'minlash uchun xizmat ko'rsatuvchilarga\n• Qonun talabiga binoan\n• Foydalanuvchilarning huquqlari va xavfsizligini himoya qilish uchun"
+      },
+      "rights": {
+        "title": "5. Sizning huquqlaringiz",
+        "content": "Sizda quyidagi huquqlar bor:\n• O'z ma'lumotlaringizga kirish so'rash\n• Noto'g'ri ma'lumotlarni tuzatish\n• Hisobingiz va barcha ma'lumotlaringizni o'chirish\n• Ma'lumotlarni qayta ishlashga rozilikni bekor qilish"
+      },
+      "contact": {
+        "title": "6. Kontaktlar",
+        "content": "Maxfiylik bo'yicha savollar uchun murojaat qiling:\nEmail: privacy@mavu.ai"
+      }
+    }
+  },
+  "offer": {
+    "title": "Ommaviy oferta",
+    "lastUpdate": "Oxirgi yangilanish:",
+    "intro": "Ushbu hujjat MAVU AI xizmatidan foydalanish bo'yicha shartnoma tuzish uchun rasmiy taklif (oferta) hisoblanadi.",
+    "sections": {
+      "terms": {
+        "title": "1. Atamalar va ta'riflar",
+        "content": "• Xizmat — MAVU AI mobil ilovasi\n• Foydalanuvchi — ofertani qabul qilgan shaxs\n• Obuna — Xizmat funktsiyalariga pullik kirish\n• Promokod — obunani faollashtirish uchun kod"
+      },
+      "subject": {
+        "title": "2. Shartnoma predmeti",
+        "content": "Ijrochi Foydalanuvchiga MAVU AI Xizmati funktsionalligiga pullik obuna shartlari asosida kirish huquqini beradi. Xizmat 5-12 yoshdagi bolalarni hissiy qo'llab-quvvatlash uchun mo'ljallangan."
+      },
+      "price": {
+        "title": "3. Narx va to'lov tartibi",
+        "content": "• Obuna narxi: oyiga $11\n• To'lov mavjud to'lov tizimlari orqali amalga oshiriladi\n• Obuna to'lov tasdiqlanganidan so'ng darhol faollashtiriladi\n• Promokod sotib olingan kundan boshlab 30 kun amal qiladi"
+      },
+      "rights": {
+        "title": "4. Tomonlarning huquq va majburiyatlari",
+        "content": "Ijrochi quyidagilarni bajarishga majbur:\n• Xizmatga 24/7 kirishni ta'minlash\n• Ma'lumotlar xavfsizligini ta'minlash\n• Shartlardagi o'zgarishlar haqida xabar berish\n\nFoydalanuvchi quyidagilarni bajarishga majbur:\n• To'g'ri ma'lumot berish\n• Foydalanish qoidalarini buzmaslik\n• Bolaning foydalanishini nazorat qilishni ta'minlash"
+      },
+      "liability": {
+        "title": "5. Javobgarlik",
+        "content": "• Xizmat professional psixologik yordamni almashtirmaydi\n• Ijrochi Xizmat tavsiyalari asosida qabul qilingan qarorlar uchun javobgar emas\n• Maksimal javobgarlik to'langan obuna narxi bilan cheklangan"
+      },
+      "termination": {
+        "title": "6. Shartnomani bekor qilish",
+        "content": "• Foydalanuvchi istalgan vaqtda obunani bekor qilishi mumkin\n• Mablag'larni qaytarish to'lov kunidan boshlab 7 kun ichida amalga oshiriladi\n• Ijrochi qoidalar buzilganda kirishni bloklash huquqiga ega"
+      }
+    }
+  },
+  "contacts": {
+    "title": "Kontaktlar",
+    "subtitle": "Biz bilan bog'laning",
+    "description": "Biz doimo yordam berishga va savollaringizga javob berishga tayyormiz",
+    "email": {
+      "title": "Email",
+      "general": "Umumiy savollar"
+    },
+    "telegram": {
+      "title": "Qo'llab-quvvatlash xizmati",
+      "description": "Telegram orqali har qanday savolga tez yordam",
+      "button": "Telegram'ga yozish"
+    }
+  },
+  "purchase": {
+    "title": "Promokod sotib olish",
+    "subtitle": "Payme orqali to'lov",
+    "paymentMethod": "To'lov usuli",
+    "methods": {
+      "payme": "Payme"
+    },
+    "paymeDesc": "Tez va xavfsiz to'lov",
+    "orderSummary": "Jami to'lov",
+    "promo": "MAVU AI Promokod",
+    "month": "Butun sinov davri uchun",
+    "processing": "To'lov qayta ishlanmoqda...",
+    "payButton": "Payme orqali to'lash",
+    "secure": "Xavfsiz to'lov. Ma'lumotlaringiz himoyalangan.",
+    "agreement": "«To'lash» tugmasini bosish orqali siz",
+    "offerLink": "ommaviy oferta bilan roziligingizni bildirasiz",
+    "error": "To'lovni ishga tushirishda xatolik. Qayta urinib ko'ring."
+  },
+  "paymentResult": {
+    "title": "To'lov natijasi",
+    "checking": "To'lov holati tekshirilmoqda...",
+    "pleaseWait": "Iltimos, kuting",
+    "pending": "To'lov qayta ishlanmoqda",
+    "pendingDesc": "To'lovingiz hali ham qayta ishlanmoqda. Tasdiqlangandan so'ng promokodni emailingizga yuboramiz.",
+    "failedTitle": "To'lov muvaffaqiyatsiz",
+    "failedDesc": "Afsuski, to'lov amalga oshmadi. Qayta urinib ko'ring.",
+    "failed": "To'lov yakunlanmadi",
+    "cancelled": "To'lov bekor qilindi",
+    "invalidParams": "Noto'g'ri to'lov parametrlari",
+    "checkError": "To'lov holatini tekshirishda xatolik",
+    "tryAgain": "Qayta urinish",
+    "backHome": "Bosh sahifaga"
+  },
+  "success": {
+    "title": "To'lov muvaffaqiyatli!",
+    "subtitle": "Promokodingiz tayyor",
+    "promoLabel": "Sizning promokodingiz:",
+    "copy": "Nusxalash",
+    "copied": "Nusxalandi!",
+    "instructions": {
+      "title": "Qanday faollashtirish:",
+      "step1": "MAVU AI ilovasini yuklab oling",
+      "step2": "Hisob yarating",
+      "step3": "Sozlamalarda promokodni kiriting"
+    },
+    "download": "Ilovani yuklab olish",
+    "backHome": "Bosh sahifaga"
+  },
+  "notFound": {
+    "title": "404",
+    "subtitle": "Sahifa topilmadi",
+    "description": "Bu sahifa kosmosda yo'qolib ketganga o'xshaydi. Lekin tashvishlanmang, MAVU uyga yo'l topishga yordam beradi!",
+    "backHome": "Bosh sahifaga qaytish"
+  }
+}

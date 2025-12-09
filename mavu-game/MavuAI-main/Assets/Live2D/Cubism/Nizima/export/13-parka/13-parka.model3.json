@@ -1,0 +1,84 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "13-parka.moc3",
+		"Textures": [
+			"textures/texture_00.png",
+			"textures/texture_01.png",
+			"textures/texture_02.png"
+		],
+		"Physics": "13-parka.physics3.json",
+		"DisplayInfo": "13-parka.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "eye_Swirl",
+				"File": "motion/eye_Swirl.exp3.json"
+			},
+			{
+				"Name": "eye_highlight",
+				"File": "motion/eye_highlight.exp3.json"
+			},
+			{
+				"Name": "eye_star",
+				"File": "motion/eye_star.exp3.json"
+			},
+			{
+				"Name": "face_angry",
+				"File": "motion/face_angry.exp3.json"
+			},
+			{
+				"Name": "pose_byby",
+				"File": "motion/pose_byby.exp3.json"
+			},
+			{
+				"Name": "pose_controller",
+				"File": "motion/pose_controller.exp3.json"
+			},
+			{
+				"Name": "sad-mouth",
+				"File": "motion/sad-mouth.exp3.json"
+			},
+			{
+				"Name": "sweat",
+				"File": "motion/sweat.exp3.json"
+			},
+			{
+				"Name": "tears",
+				"File": "motion/tears.exp3.json"
+			},
+			{
+				"Name": "turn_pale",
+				"File": "motion/turn_pale.exp3.json"
+			},
+			{
+				"Name": "怒った眉",
+				"File": "motion/angryEyebrow.exp3.json"
+			}
+		],
+		"Motions": {
+			"": [
+				{
+					"File": "motion/byby.motion3.json"
+				}
+			],
+			"Idle": [
+				{
+					"File": "motion/idel.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	],
+	"HitAreas": []
+}

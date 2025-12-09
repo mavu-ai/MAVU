@@ -1,0 +1,76 @@
+stages:
+  - build
+  - deploy
+
+# Backend build job
+build:backend:
+  stage: build
+  image:
+    name: gcr.io/kaniko-project/executor:debug
+    entrypoint: [""]
+  script:
+    - echo "=== Files in backend directory ==="
+    - ls -la backend/
+    - mkdir -p /kaniko/.docker
+    - echo "{\"auths\":{\"$CI_REGISTRY\":{\"username\":\"$CI_REGISTRY_USER\",\"password\":\"$CI_REGISTRY_PASSWORD\"}}}" > /kaniko/.docker/config.json
+    - /kaniko/executor
+      --context ./backend
+      --dockerfile ./backend/Dockerfile
+      --destination $CI_REGISTRY_IMAGE:$CI_COMMIT_SHORT_SHA
+  only:
+    - main
+
+# Frontend build job
+build:frontend:
+  stage: build
+  image: node:22.20.0
+  cache:
+    paths:
+      - frontend/node_modules/
+  before_script:
+    - cd frontend
+    - echo "$FRONTEND_ENV" > .env
+  script:
+    - yarn install
+    - yarn build
+  artifacts:
+    paths:
+      - frontend/dist/
+    expire_in: 1 hour
+  only:
+    - main
+
+# Deploy job
+deploy:
+  stage: deploy
+  image: python
+  before_script:
+    # Install SSH client
+    - 'command -v ssh-agent >/dev/null || (apt-get update -y && apt-get install openssh-client -y)'
+    # Start SSH agent
+    - eval $(ssh-agent -s)
+    # Add SSH private key from GitLab CI/CD variable
+    - chmod 400 "$SSH_PRIVATE_KEY"
+    - ssh-add "$SSH_PRIVATE_KEY"
+    # Configure SSH
+    - mkdir -p ~/.ssh
+    - chmod 700 ~/.ssh
+    - echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config
+    # Setup backend deployment
+    - sed -i 's|IMAGE|'"$CI_REGISTRY_IMAGE:$CI_COMMIT_SHORT_SHA"'|g' docker-compose.prod.yml
+    - scp $BACKEND_ENV $USER@$HOST:/root/.env
+    - scp $CI_PROJECT_DIR/docker-compose.prod.yml $USER@$HOST:/root/docker-compose.yml
+  script:
+    # Deploy backend
+    - echo "Deploying backend..."
+    - ssh $USER@$HOST "cd /root && echo $CI_REGISTRY_PASSWORD | docker login registry.gitlab.com --username $CI_REGISTRY_USER --password-stdin && docker compose -f docker-compose.yml pull && docker compose -f docker-compose.yml up -d --force-recreate && docker system prune -a -f"
+    # Deploy frontend
+    - echo "Deploying frontend..."
+    - ssh $USER@$HOST "mkdir -p /var/www/mavuai"
+    - scp -r frontend/dist/* $USER@$HOST:/var/www/mavuai/
+    - ssh $USER@$HOST "ls -la /var/www/mavuai/ | head -10"
+    - echo "Deployment completed successfully!"
+  dependencies:
+    - build:frontend
+  only:
+    - main

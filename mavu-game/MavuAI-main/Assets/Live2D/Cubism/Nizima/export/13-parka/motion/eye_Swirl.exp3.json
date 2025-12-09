@@ -1,0 +1,15 @@
+{
+	"Type": "Live2D Expression",
+	"Parameters": [
+		{
+			"Id": "ParamKbEyeGrgr",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamKbEyeKirakira",
+			"Value": 0,
+			"Blend": "Add"
+		}
+	]
+}

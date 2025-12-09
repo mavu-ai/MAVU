@@ -1,0 +1,208 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI_Text Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI_Text
+  m_TableCollectionNameGuidString: ef231490028a7fc4e84c10b804a20cc3
+  m_Entries:
+  - m_Id: 8239737532416
+    m_Key: SampleScene/Canvas/Main/Avatars/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10720278278144
+    m_Key: PhonesButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14989911977984
+    m_Key: InAppLanguageText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15410399342592
+    m_Key: MailText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 266562084859904
+    m_Key: "\u041F\u0440\u0438\u0432\u044F\u0437\u0430\u0442\u044CButton"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267675680960512
+    m_Key: DeleteAccountText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 268149129801728
+    m_Key: SelectedStateButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 268359616753664
+    m_Key: ToChooseButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 268992793079808
+    m_Key: CustomizeButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1060300340129792
+    m_Key: character_count
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1061680874319872
+    m_Key: MaoName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1061768292003840
+    m_Key: MaoDecription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1062142725910528
+    m_Key: NatoriName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1062314256166912
+    m_Key: NatoriDecription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1064192348057600
+    m_Key: MailInput
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1107038153273344
+    m_Key: BGCozyRoom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1107140792086528
+    m_Key: BGNightForest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1107349030891520
+    m_Key: BG Midnight Forest Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1107943548317696
+    m_Key: BG Cozy Room description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2881414678769664
+    m_Key: NameInput
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2882025793056768
+    m_Key: NameConfirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3599548452761600
+    m_Key: MailCode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3600423090974720
+    m_Key: TestDebug
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3601564314955776
+    m_Key: TestSend
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3622176605401088
+    m_Key: Login
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7296235549552640
+    m_Key: AlexDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7296774291124224
+    m_Key: AlexName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7296827374235648
+    m_Key: MayaName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7297094836613120
+    m_Key: MayaDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8666875082895360
+    m_Key: GoToRegister
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14885292404174848
+    m_Key: Have An account?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14927580517953536
+    m_Key: EnterMail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14977057484238848
+    m_Key: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14977986170253312
+    m_Key: Adress email
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15569515502956544
+    m_Key: SendedEmail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15577967323312128
+    m_Key: SendedTap
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15617601323462656
+    m_Key: TellAboutYou
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15619352692846592
+    m_Key: Your name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15619434632769536
+    m_Key: Your gender
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15619761620709376
+    m_Key: Your age
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15619914528256000
+    m_Key: Complete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15620303289905152
+    m_Key: You Girl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15620370839171072
+    m_Key: You Boy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26555660147683328
+    m_Key: "\u0412\u043E\u0439\u0442\u0438 \u043F\u043E \u043F\u0440\u043E\u043C\u043E\u043A\u043E\u0434\u0443"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26558533241729024
+    m_Key: "\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432 \u0431\u0435\u0442\u0435"
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5785789966308344087
+  references:
+    version: 2
+    RefIds:
+    - rid: 5785789966308344087
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1755267420667

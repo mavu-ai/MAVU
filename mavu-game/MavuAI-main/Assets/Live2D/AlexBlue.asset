@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49b9ba800c4f5784b929f9a23f9f37ef, type: 3}
+  m_Name: AlexBlue
+  m_EditorClassIdentifier: 
+  entryName:
+    m_TableReference:
+      m_TableCollectionName: GUID:ef231490028a7fc4e84c10b804a20cc3
+    m_TableEntryReference:
+      m_KeyId: 7296774291124224
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  description:
+    m_TableReference:
+      m_TableCollectionName: GUID:ef231490028a7fc4e84c10b804a20cc3
+    m_TableEntryReference:
+      m_KeyId: 7296235549552640
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  characterId: 1
+  characterPrefab: {fileID: 9107111672241651993, guid: f8266a444fcb4ff43aba671a1cf17cb5, type: 3}
+  emotions:
+  - animationClip: {fileID: 7400000, guid: 909ca38b27c164849a774917359f4cdb, type: 2}
+    emotionID: 8
+    emotePlayButton: {fileID: 0}
+  - animationClip: {fileID: 7400000, guid: 49fbef81965b33d43b09d4aaec84ba1b, type: 2}
+    emotionID: 4
+    emotePlayButton: {fileID: 0}
+  - animationClip: {fileID: 7400000, guid: 6481162769e3b8d48ad373fa319d2d59, type: 2}
+    emotionID: 5
+    emotePlayButton: {fileID: 0}
+  voiceNameRu: dmitri
+  voiceNameEn: alan
+  voicePitch: 1
+  defaultAppearance:
+    parameterSettings:
+    - parameterId: ParamMouthForm
+      value: 0
+    - parameterId: ParamMouthOpenY
+      value: 0
+    - parameterId: ParamSad
+      value: 0
+    - parameterId: ParamCatMouth
+      value: 0
+    - parameterId: ParamM_V_X1
+      value: 1
+    - parameterId: ParamM_V_X2
+      value: 1
+    - parameterId: ParamMouthX
+      value: 0
+    - parameterId: ParamMouthX2
+      value: 0
+    - parameterId: ParamEyePhysics
+      value: 0
+    - parameterId: ParamEyePhysics2
+      value: 0
+    - parameterId: ParamSmileEye
+      value: 0
+    - parameterId: ParamContractionEye
+      value: 0
+    - parameterId: ParamE_Type
+      value: -1
+    - parameterId: ParamEyeLOpen
+      value: 1
+    - parameterId: ParamEyeROpen
+      value: 1
+    - parameterId: ParamBrowLForm
+      value: 0
+    - parameterId: ParamBrowLY
+      value: 0
+    - parameterId: ParamBrowAngry
+      value: 0
+    - parameterId: ParamB_Type
+      value: 0
+    - parameterId: ParamB_Type2
+      value: 0
+    - parameterId: ParamBrowRForm
+      value: 0
+    - parameterId: ParamBrowRY
+      value: 0
+    - parameterId: ParamFaceAngry
+      value: 0
+    - parameterId: ParamSweat
+      value: 0
+    - parameterId: ParamTears
+      value: 0
+    - parameterId: ParamKbEyeKirakira
+      value: 0
+    - parameterId: ParamKbEyeGrgr
+      value: 0
+    - parameterId: ParamBlackEyes
+      value: 0
+    - parameterId: ParamEyelashes
+      value: 0
+    - parameterId: ParamNose
+      value: 0
+    - parameterId: ParamHighlight1
+      value: 0.181
+    - parameterId: ParamHighlight2
+      value: 0.174
+    - parameterId: ParamHighlight3
+      value: 0
+    - parameterId: ParamFaceBlue
+      value: 0.007
+    - parameterId: ParamFaceRed
+      value: 0.507
+    - parameterId: ParamBreath
+      value: 0.031
+    - parameterId: ParamHalo
+      value: 0
+    - parameterId: ParamHaloColor
+      value: 0
+    - parameterId: ParamWing
+      value: 0.469
+    - parameterId: ParamWingColor
+      value: 0.648
+    - parameterId: ParamDarkMole
+      value: 0.5
+    - parameterId: ParamHorns
+      value: 0.002
+    - parameterId: ParamHorns3
+      value: 0
+    - parameterId: ParamHorns2
+      value: 0.202
+    - parameterId: ParamFang
+      value: 0.12
+    - parameterId: ParamEar
+      value: 0.1
+    - parameterId: ParamTail
+      value: 1
+    - parameterId: ParamTailColor
+      value: 0
+    - parameterId: ParamSkinColor
+      value: 0
+    - parameterId: ParamEyeglass
+      value: 0
+    - parameterId: ParamEyeglassColor
+      value: 0
+    - parameterId: ParamHChangeCowlick
+      value: 1
+    - parameterId: ParamHChangeFront
+      value: 0.487
+    - parameterId: ParamHChangeFront2
+      value: 1
+    - parameterId: ParamHChangeSide
+      value: 0
+    - parameterId: ParamHChangeSide2
+      value: 0.5
+    - parameterId: ParamHChangeSide3
+      value: 0.5
+    - parameterId: ParamHChangeB
+      value: 0
+    - parameterId: ParamHChangeBack2
+      value: 0.5
+    - parameterId: ParamCostume
+      value: 1
+    - parameterId: ParamCostumeColor
+      value: 0
+    - parameterId: ParamCostumeColor3
+      value: 0.70100003
+    - parameterId: ParamCostumeColor4
+      value: 0.9
+    - parameterId: ParamCostumeColor2
+      value: 0.1
+    - parameterId: ParamMoH
+      value: 0
+    - parameterId: ParamMoH2
+      value: 0
+    - parameterId: ParamMoH5
+      value: 0
+    - parameterId: ParamMoH3
+      value: 0
+    - parameterId: ParamMoH4
+      value: 0
+    - parameterId: ParamLoopControllerL1
+      value: 0
+    - parameterId: ParamLoopControllerL2
+      value: 0
+    - parameterId: ParamLoopControllerR1
+      value: 0
+    - parameterId: ParamLoopControllerR2
+      value: 0
+    - parameterId: ParamLoopGrgrEye2
+      value: 0
+    - parameterId: ParamEar_m
+      value: 0
+    - parameterId: ParamHairFront3
+      value: 0
+    - parameterId: ParamHairFront4
+      value: 0
+    - parameterId: ParamHairFront
+      value: 0
+    - parameterId: ParamHairFront2
+      value: 0
+    - parameterId: Param5
+      value: 0
+    - parameterId: Param4
+      value: 0
+    - parameterId: Param3
+      value: 0
+    - parameterId: Param2
+      value: 0
+    - parameterId: Param
+      value: 0
+    textureSettings:
+    - originalTextureName: texture_00
+      selectedOptionId: blue
+    - originalTextureName: texture_01
+      selectedOptionId: brown
+  references:
+    version: 2
+    RefIds: []
